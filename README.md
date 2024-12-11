@@ -1,0 +1,1 @@
+Crop-Era is a web app designed to modernize agriculture by providing tools for managing seasonal crop diseases, smart climate-based irrigation, and access to new farming technologies. With multilingual support in English, Telugu, and Hindi, it empowers farmers with knowledge and resources for sustainable farming practices.
